@@ -27,7 +27,7 @@ Noddit is a RESTful API that conforms to the constraints of REST architectural s
 
 ## Application Architecture
 
-![Architecture](https://github.com/arjanaswal/Apra487/blob/main/wiki/architecture.png?raw=true)
+![Architecture](https://raw.githubusercontent.com/Apra487/Noddit/main/wiki/architecture.png?raw=true)
 
 ## Quick Start
 
