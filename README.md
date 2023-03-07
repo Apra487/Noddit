@@ -27,7 +27,7 @@ Noddit is a RESTful API that conforms to the constraints of REST architectural s
 
 ## Application Architecture
 
-![Architecture](https://github.com/arjanaswal/noddit/blob/main/wiki/architecture.png?raw=true)
+![Architecture](https://github.com/arjanaswal/Apra487/blob/main/wiki/architecture.png?raw=true)
 
 ## Quick Start
 
@@ -56,7 +56,7 @@ Then run the following command:
 
 ## CI/CD Workflow
 
-![Workflow](https://github.com/arjanaswal/noddit/blob/main/wiki/workflow.png?raw=true)
+![Workflow](https://raw.githubusercontent.com/Apra487/Noddit/main/wiki/workflow.png)
 
 ## Performance
 
